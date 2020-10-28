@@ -1,0 +1,10 @@
+caseId,petitioner,respondent,issue,issueArea,subCourt_MQ,caseDisposition,decisionDirection,term,case_name
+0,0,0,0,0,0,0,0,0,<select>
+1952-001,224.0,21.0,90200.0,9.0,4.204,1.0,0.0,1952.0,Brown v Board of Education - 1952 (Desegregation of Public Schools)
+1965-122,100.0,28.0,10100.0,1.0,-8.863,3.0,1.0,1965.0,Miranda v Arizona - 1965 (Prisoner Rights)
+1972-048,155.0,28.0,50020.0,5.0,-0.649,3.0,1.0,1972.0,Roe v Wade - 1972 (Abortion)
+1989-126,229.0,28.0,50030.0,5.0,-1.106,2.0,0.0,1989.0,Cruzon v Missouri Dept of Health - 1989 (Right to Die)
+1995-048,27.0,100.0,10160.0,1.0,5.704,4.0,0.0,1995.0,United States v Christopher Lee Armstrong - 1995 (Racial Profiling)
+2000-009,211.0,211.0,20010.0,2.0,3.5240000000000005,4.0,0.0,2000.0,Bush v Gore - 2000 (Federal Elections)
+2007-001,21.0,164.0,20210.0,2.0,2.551,2.0,1.0,2007.0,District of Columbia v Heller - 2007 (Gun Rights)
+2014-070,162.0,7.0,40010.0,4.0,-1.5250000000000001,3.0,1.0,2014.0,Obergefell v Hodges - 2014 (Same-Sex Marraige)
