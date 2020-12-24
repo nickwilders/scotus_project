@@ -1,9 +1,10 @@
 <h2>Fantasy SCOTUS Web App</h2>
 <br>
-<a href='http://www.fantasyscotus.herokuapp.com'> Web App</a> 
+<a href='http://www.fantasyscotus.herokuapp.com'> WEB APP</a> 
 <br> 
-<a href="https://towardsdatascience.com/a-not-quite-fantasy-scotus-92a6e43739b3">Towards Data Science article</a>. 
-<br>
+<a href="https://towardsdatascience.com/a-not-quite-fantasy-scotus-92a6e43739b3">TDS Article</a>. 
+<br><br>
+
 Thank you for checking out the project repo for the Fantasy SCOTUS web app! This app uses a Random Forest classificaiton model to predict the disposition of a case in the United States Supreme court. This can be applied to new theoretical cases, in addition to landmask cases throughout time - what matters is the designated court deciding.
 <br>
 <br>
