@@ -1,5 +1,9 @@
 <h2>Fantasy SCOTUS Web App</h2>
 <br>
+<a href='http://www.fantasyscotus.herokuapp.com'> Web App</a> 
+<br> 
+<a href="https://towardsdatascience.com/a-not-quite-fantasy-scotus-92a6e43739b3">Towards Data Science article</a>. 
+<br>
 Thank you for checking out the project repo for the Fantasy SCOTUS web app! This app uses a Random Forest classificaiton model to predict the disposition of a case in the United States Supreme court. This can be applied to new theoretical cases, in addition to landmask cases throughout time - what matters is the designated court deciding.
 <br>
 <br>
@@ -21,4 +25,4 @@ This study makes use of a <b><i>Court MQ</i></b>, which represents the political
 After testing many model types, a Random Forest model was selected. The Random Forest model gave the highest accuracy on both test and validation sets, and also made the most sense with this sort of data. Although the values were treated as continuous variables to account for new entry (using the app), they essentially function as categorical variables, where Random Forest excels as a model. Other models developed but not selected include Decision Tree (a less efficient duplicate of Random Forest include KNN and SVC (comparable success), Logistic Regression and Gaussian Naive Bayes (moderate success). 
 <br>
 <br>
-For further questions about the model, dataset, or app, please contact Nick Wilders at nawilders@gmail.com. The app is available at <a href='http://www.fantasyscotus.herokuapp.com'> this link</a>, and an article outlining EDA and more of the process in this app creation is available in my <a href="https://towardsdatascience.com/a-not-quite-fantasy-scotus-92a6e43739b3">Towards Data Science article</a>. 
+For further questions about the model, dataset, or app, please contact Nick Wilders at nawilders@gmail.com. 
